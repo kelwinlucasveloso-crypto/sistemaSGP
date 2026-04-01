@@ -1,6 +1,6 @@
 algoritmo "Nome do Programa"
 var
-    idade: inteiro
+    idade: real
 inicio
     escreva("digite sua idade:")
         leia(idade)
